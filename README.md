@@ -9,3 +9,4 @@
 * https://modrinth.com/mod/ferrite-core
 * https://modrinth.com/mod/xaeros-world-map
 * https://modrinth.com/mod/xaeros-minimap
+* https://modrinth.com/mod/enchancement
