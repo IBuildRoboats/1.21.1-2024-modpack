@@ -33,3 +33,7 @@
 * https://modrinth.com/mod/rolling-down-in-the-deep
 * https://modrinth.com/mod/backslot
 * https://modrinth.com/datapack/tool-trims
+* https://modrinth.com/mod/appleskin
+* https://modrinth.com/mod/farmers-delight-refabricated
+* https://modrinth.com/mod/oceans-delight
+* https://modrinth.com/mod/foggy-border
