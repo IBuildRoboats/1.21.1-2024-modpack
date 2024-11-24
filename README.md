@@ -37,3 +37,4 @@
 * https://modrinth.com/mod/farmers-delight-refabricated
 * https://modrinth.com/mod/oceans-delight
 * https://modrinth.com/mod/foggy-border
+* https://modrinth.com/mod/yacl
