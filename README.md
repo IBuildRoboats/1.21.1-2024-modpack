@@ -27,3 +27,9 @@
 * https://modrinth.com/mod/cloth-config
 * https://modrinth.com/datapack/terralith
 * https://modrinth.com/mod/jei
+* https://modrinth.com/mod/reinforced-shulker-boxes
+* https://modrinth.com/mod/reinforced-chests
+* https://modrinth.com/mod/reinforced-barrels
+* https://modrinth.com/mod/rolling-down-in-the-deep
+* https://modrinth.com/mod/backslot
+* https://modrinth.com/datapack/tool-trims
