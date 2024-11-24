@@ -15,3 +15,14 @@
 * https://modrinth.com/mod/handcrafted
 * https://modrinth.com/mod/resourceful-lib
 * https://modrinth.com/mod/another-furniture
+* https://modrinth.com/mod/stoneworks
+* https://modrinth.com/mod/diagonal-fences
+* https://modrinth.com/mod/puzzles-lib
+* https://modrinth.com/mod/forge-config-api-port
+* https://modrinth.com/mod/do-a-barrel-roll
+* https://modrinth.com/mod/cicada
+* https://modrinth.com/mod/carry-on
+* https://modrinth.com/mod/ping-wheel
+* https://modrinth.com/mod/yigd
+* https://modrinth.com/mod/cloth-config
+* 
