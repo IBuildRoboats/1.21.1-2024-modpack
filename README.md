@@ -25,7 +25,6 @@
 * https://modrinth.com/mod/ping-wheel
 * https://modrinth.com/mod/yigd
 * https://modrinth.com/mod/cloth-config
-* https://modrinth.com/datapack/terralith
 * https://modrinth.com/mod/jei
 * https://modrinth.com/mod/reinforced-shulker-boxes
 * https://modrinth.com/mod/reinforced-chests
