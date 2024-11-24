@@ -37,3 +37,5 @@
 * https://modrinth.com/mod/oceans-delight
 * https://modrinth.com/mod/foggy-border
 * https://modrinth.com/mod/yacl
+* https://modrinth.com/mod/supplementaries
+* 
