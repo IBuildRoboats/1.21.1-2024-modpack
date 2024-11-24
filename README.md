@@ -26,3 +26,4 @@
 * https://modrinth.com/mod/yigd
 * https://modrinth.com/mod/cloth-config
 * https://modrinth.com/datapack/terralith
+* https://modrinth.com/mod/jei
