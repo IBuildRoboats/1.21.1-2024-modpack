@@ -10,3 +10,8 @@
 * https://modrinth.com/mod/xaeros-world-map
 * https://modrinth.com/mod/xaeros-minimap
 * https://modrinth.com/mod/enchancement
+* https://modrinth.com/mod/betterf3
+* https://modrinth.com/mod/comforts
+* https://modrinth.com/mod/handcrafted
+* https://modrinth.com/mod/resourceful-lib
+* https://modrinth.com/mod/another-furniture
