@@ -25,4 +25,4 @@
 * https://modrinth.com/mod/ping-wheel
 * https://modrinth.com/mod/yigd
 * https://modrinth.com/mod/cloth-config
-* 
+* https://modrinth.com/datapack/terralith
