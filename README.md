@@ -38,4 +38,5 @@
 * https://modrinth.com/mod/foggy-border
 * https://modrinth.com/mod/yacl
 * https://modrinth.com/mod/supplementaries
-* 
+* https://modrinth.com/mod/moonlight
+* https://modrinth.com/mod/amendments
