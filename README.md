@@ -40,3 +40,8 @@
 * https://modrinth.com/mod/supplementaries
 * https://modrinth.com/mod/moonlight
 * https://modrinth.com/mod/amendments
+* https://modrinth.com/mod/camerapture
+* https://modrinth.com/plugin/simple-voice-chat
+* https://modrinth.com/mod/sound-physics-remastered
+* https://modrinth.com/mod/clumps
+* 
