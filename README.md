@@ -1,5 +1,4 @@
 # 1.21.1-2024-modpack list
-* https://modrinth.com/mod/infinite-dimensions
 * https://modrinth.com/mod/fabric-api
 * https://modrinth.com/mod/architectury-api
 * https://modrinth.com/mod/sodium
