@@ -43,4 +43,3 @@
 * https://modrinth.com/plugin/simple-voice-chat
 * https://modrinth.com/mod/sound-physics-remastered
 * https://modrinth.com/mod/clumps
-* https://modrinth.com/mod/biomes-o-plenty/version/YPm4arUa
